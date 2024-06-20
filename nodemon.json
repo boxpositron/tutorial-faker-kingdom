@@ -1,0 +1,5 @@
+{
+    "watch": "faker/",
+    "ext": "py",
+    "exec": "clear && poetry run python -m faker"
+}
